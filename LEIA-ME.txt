@@ -1,9 +1,3 @@
-CONSULTA DE MATERIAIS - VERSÃO OFFLINE
+CONSULTA DE MATERIAIS - PWA OFFLINE
 
-Abra index.html no navegador do celular ou computador. Para instalar como aplicativo no celular, publique o arquivo em um serviço HTTPS (como GitHub Pages ou Netlify) e adicione à tela inicial; para acesso fácil. Esta versão HTML é totalmente autossuficiente e funciona sem rede ao abrir o arquivo diretamente. A publicação online não garante abertura offline sem cache ou configuração PWA adicional.
-
-Busca por código, descrição, apelidos e erros aproximados.
-Almoxarifados ALM 1 = INDÚSTRIA, ALM 2 = GARAGEM.
-Área avançada protegida por senha de acesso casual.
-Os dados editados ficam apenas no navegador/dispositivo: exporte backup periodicamente.
-A extração automática de tabelas do PDF pode conter falhas; confira itens críticos no documento original.
+Publique TODOS os arquivos juntos na raiz do repositório GitHub Pages (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png). Aguarde a publicação e abra a URL HTTPS no Chrome para instalar. O primeiro acesso exige internet; depois o app pode abrir offline. Dados pessoais ficam no navegador; faça backups. A classificação automática de tipos é aproximada e pode ser ajustada. A senha de opções avançadas é apenas uma barreira de interface, não segurança forte.
