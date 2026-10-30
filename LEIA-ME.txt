@@ -1,0 +1,9 @@
+CONSULTA DE MATERIAIS - VERSÃO OFFLINE
+
+Abra index.html no navegador do celular ou computador. Para instalar como aplicativo no celular, publique o arquivo em um serviço HTTPS (como GitHub Pages ou Netlify) e adicione à tela inicial; para acesso fácil. Esta versão HTML é totalmente autossuficiente e funciona sem rede ao abrir o arquivo diretamente. A publicação online não garante abertura offline sem cache ou configuração PWA adicional.
+
+Busca por código, descrição, apelidos e erros aproximados.
+Almoxarifados ALM 1 = INDÚSTRIA, ALM 2 = GARAGEM.
+Área avançada protegida por senha de acesso casual.
+Os dados editados ficam apenas no navegador/dispositivo: exporte backup periodicamente.
+A extração automática de tabelas do PDF pode conter falhas; confira itens críticos no documento original.
